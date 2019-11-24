@@ -1,0 +1,245 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.1.aar\1ad6a6d1018eadc9bbba54700eeedafb\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.1.aar\ff39a50eae290cb9dce0e65121d49a7d\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\ba32ff3c92a54360c0485e894215d954\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\63c19fd97f2642f5c0cedb1ea4ebccaf\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-2.1.0.aar\a579a81a3477cbfa4c6a10264bfd7a8a\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-2.1.0.aar\ba7462eb5481f3aa590d330d402532ac\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\06804964da5c5f3f3aaa690e4c5dbc5b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-2.1.0.aar\ea1a1ff5849cf5033e8e47d009f20551\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-ktx-1.1.0.aar\54fe3e70186b87122f6f9f9957ed78a3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-ktx-1.0.0.aar\55b0b71f304afaa868bd7f684f9d542f\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-ktx-2.1.0.aar\92ec1fdf9675761301dbecd1f3082250\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\13c92cfa2884965ac1878e35eedde5f8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-2.1.0.aar\3b8a9e44820c4588323bfd49f4ebc096\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\480f5f1b237a6b9b41fb8e87a4fe66bc\AndroidManifest.xml:2:1-11:12
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\966bebeafab93938747061fdc41bb4d6\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-2.1.0.aar\4ef32412a6d21444b22d83b62a48dd47\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\592abb808dc37e1d52d122bb78105e02\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a72ef0cd0863dd2771dd2f25fb7a4091\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\7dfa79abfd75509ab7d29fc41fa6c67a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\7469e1e62ea26b6b214b0cad59fa2ec3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.1.0.aar\d368e18d6ce7dff61cf09ab01e07aa78\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\5ecf3bfa910da951b72cea5cc393087c\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\403cebcfb4c1a6fb5c0fef41bf495562\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\485b04f05d3ca428847cd042cae45f80\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d43f801c49b77ffb396747e91a6fe571\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f02bd938f726a451911e07196e36f702\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ad02538a43fbe56ba065137997f7f85e\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\6f5eacc8c71d0f2188898e02a00b7563\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\be3e45db855e35023637f578b533ae59\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3c4c1a673dceb3030525e5b77d4069c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\678d6ee0167c52a28fc1e5beb508bc77\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.1.0.aar\722a2420bf8fa048fd98ed9876342a3d\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\2cf14a221279c08c3b6845e25cb1a6c4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-2.1.0.aar\b4fe30dfd7f3dde58f9ea48f15d140ed\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e4fa214d42ceafd46f2527469ff9ce8b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\56922c98ac48db57549118a591223a70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4b40ebafb6c9c592a48bd69c9bfa73fb\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\743fbd950a2a916ecd6143546c20c68a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\629309deb0dc0260eacb33aa8be4a5f4\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d34a0c23e6c8f5f98e7bbb6dec2527f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\78633899b24dbb2656ad0ac65e7badce\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\0c7aec182a87ec486ea260c501dc821b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\f0ad149c29f6aeb0ef790dc1a2aa01f3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c163a92a7329945aee92c3a86827d0f\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\26ae7642a6579819f6c6673dcd25d96a\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3319f31e7e9fa80faee1497b1b06ce5\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0954ffc504c24874f293f8703fa1d159\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\710c2f0c7c17d6eb2d23606dccc382fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b548f37f1e6da75ce9b3e26e07df5e70\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e539b8f4124e5a17c9be234fbcf529fc\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\664c5745e7a5be767184c4190476cee8\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\19c13ef6e240f5487d09c7ac0888dca7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\afa6f1b758e1a542fd12c1d574e122d7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\90ceb9865b4ba33e5e0836c2b721051d\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e47477672e285e3f0e9f55d62558727e\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+	package
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:1-38:12
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:18:11-69
+application
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:21:5-36:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\480f5f1b237a6b9b41fb8e87a4fe66bc\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\480f5f1b237a6b9b41fb8e87a4fe66bc\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\592abb808dc37e1d52d122bb78105e02\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\592abb808dc37e1d52d122bb78105e02\AndroidManifest.xml:22:5-20
+MERGED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c163a92a7329945aee92c3a86827d0f\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c163a92a7329945aee92c3a86827d0f\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:24:9-41
+	android:roundIcon
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:25:9-54
+	android:icon
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:23:9-43
+	android:allowBackup
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:22:9-35
+	android:theme
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:27:9-40
+activity#com.example.android.navigation.MainActivity
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:28:9-35:20
+	android:configChanges
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:30:13-91
+	android:name
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:29:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml:33:27-74
+uses-sdk
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.1.aar\1ad6a6d1018eadc9bbba54700eeedafb\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-adapters-3.3.1.aar\1ad6a6d1018eadc9bbba54700eeedafb\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.1.aar\ff39a50eae290cb9dce0e65121d49a7d\AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.3.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\databinding-runtime-3.3.1.aar\ff39a50eae290cb9dce0e65121d49a7d\AndroidManifest.xml:22:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\ba32ff3c92a54360c0485e894215d954\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-ktx-1.0.0-rc02.aar\ba32ff3c92a54360c0485e894215d954\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\63c19fd97f2642f5c0cedb1ea4ebccaf\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-ktx-1.0.0-rc02.aar\63c19fd97f2642f5c0cedb1ea4ebccaf\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-2.1.0.aar\a579a81a3477cbfa4c6a10264bfd7a8a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-ktx-2.1.0.aar\a579a81a3477cbfa4c6a10264bfd7a8a\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-2.1.0.aar\ba7462eb5481f3aa590d330d402532ac\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-ui-ktx-2.1.0.aar\ba7462eb5481f3aa590d330d402532ac\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\06804964da5c5f3f3aaa690e4c5dbc5b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-ktx-1.0.0-rc02.aar\06804964da5c5f3f3aaa690e4c5dbc5b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-2.1.0.aar\ea1a1ff5849cf5033e8e47d009f20551\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-ktx-2.1.0.aar\ea1a1ff5849cf5033e8e47d009f20551\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-ktx-1.1.0.aar\54fe3e70186b87122f6f9f9957ed78a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-ktx-1.1.0.aar\54fe3e70186b87122f6f9f9957ed78a3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-ktx-1.0.0.aar\55b0b71f304afaa868bd7f684f9d542f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-ktx-1.0.0.aar\55b0b71f304afaa868bd7f684f9d542f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-ktx-2.1.0.aar\92ec1fdf9675761301dbecd1f3082250\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-ktx-2.1.0.aar\92ec1fdf9675761301dbecd1f3082250\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\13c92cfa2884965ac1878e35eedde5f8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common-ktx:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-ktx-1.0.0-rc02.aar\13c92cfa2884965ac1878e35eedde5f8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-2.1.0.aar\3b8a9e44820c4588323bfd49f4ebc096\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-ktx-2.1.0.aar\3b8a9e44820c4588323bfd49f4ebc096\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\480f5f1b237a6b9b41fb8e87a4fe66bc\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.0-alpha1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\constraintlayout-2.0.0-alpha1.aar\480f5f1b237a6b9b41fb8e87a4fe66bc\AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\966bebeafab93938747061fdc41bb4d6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-ui:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-1.0.0-rc02.aar\966bebeafab93938747061fdc41bb4d6\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-2.1.0.aar\4ef32412a6d21444b22d83b62a48dd47\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-ui-2.1.0.aar\4ef32412a6d21444b22d83b62a48dd47\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\592abb808dc37e1d52d122bb78105e02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\material-1.0.0.aar\592abb808dc37e1d52d122bb78105e02\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a72ef0cd0863dd2771dd2f25fb7a4091\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\appcompat-1.0.0.aar\a72ef0cd0863dd2771dd2f25fb7a4091\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\7dfa79abfd75509ab7d29fc41fa6c67a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0-beta01.aar\7dfa79abfd75509ab7d29fc41fa6c67a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\7469e1e62ea26b6b214b0cad59fa2ec3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0-beta01] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\media-1.0.0-beta01.aar\7469e1e62ea26b6b214b0cad59fa2ec3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.1.0.aar\d368e18d6ce7dff61cf09ab01e07aa78\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-fragment-2.1.0.aar\d368e18d6ce7dff61cf09ab01e07aa78\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\5ecf3bfa910da951b72cea5cc393087c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-fragment:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-fragment-1.0.0-rc02.aar\5ecf3bfa910da951b72cea5cc393087c\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\403cebcfb4c1a6fb5c0fef41bf495562\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0.aar\403cebcfb4c1a6fb5c0fef41bf495562\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\485b04f05d3ca428847cd042cae45f80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\485b04f05d3ca428847cd042cae45f80\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d43f801c49b77ffb396747e91a6fe571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\recyclerview-1.0.0.aar\d43f801c49b77ffb396747e91a6fe571\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f02bd938f726a451911e07196e36f702\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.0.0.aar\f02bd938f726a451911e07196e36f702\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ad02538a43fbe56ba065137997f7f85e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\ad02538a43fbe56ba065137997f7f85e\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\6f5eacc8c71d0f2188898e02a00b7563\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-runtime:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-runtime-1.0.0-rc02.aar\6f5eacc8c71d0f2188898e02a00b7563\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\be3e45db855e35023637f578b533ae59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\be3e45db855e35023637f578b533ae59\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3c4c1a673dceb3030525e5b77d4069c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\3c4c1a673dceb3030525e5b77d4069c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\678d6ee0167c52a28fc1e5beb508bc77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\678d6ee0167c52a28fc1e5beb508bc77\AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.1.0.aar\722a2420bf8fa048fd98ed9876342a3d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-runtime-2.1.0.aar\722a2420bf8fa048fd98ed9876342a3d\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\2cf14a221279c08c3b6845e25cb1a6c4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\activity-1.0.0.aar\2cf14a221279c08c3b6845e25cb1a6c4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-2.1.0.aar\b4fe30dfd7f3dde58f9ea48f15d140ed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\navigation-common-2.1.0.aar\b4fe30dfd7f3dde58f9ea48f15d140ed\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e4fa214d42ceafd46f2527469ff9ce8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.0.0.aar\e4fa214d42ceafd46f2527469ff9ce8b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\56922c98ac48db57549118a591223a70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\56922c98ac48db57549118a591223a70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4b40ebafb6c9c592a48bd69c9bfa73fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\4b40ebafb6c9c592a48bd69c9bfa73fb\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\743fbd950a2a916ecd6143546c20c68a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\743fbd950a2a916ecd6143546c20c68a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\629309deb0dc0260eacb33aa8be4a5f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\629309deb0dc0260eacb33aa8be4a5f4\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d34a0c23e6c8f5f98e7bbb6dec2527f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\5d34a0c23e6c8f5f98e7bbb6dec2527f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\78633899b24dbb2656ad0ac65e7badce\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.0.0.aar\78633899b24dbb2656ad0ac65e7badce\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\0c7aec182a87ec486ea260c501dc821b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.navigation:navigation-common:1.0.0-rc02] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\jetified-navigation-common-1.0.0-rc02.aar\0c7aec182a87ec486ea260c501dc821b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-1.1.0.aar\6e462437a6cab3a72393116d2ef50400\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\f0ad149c29f6aeb0ef790dc1a2aa01f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0.aar\f0ad149c29f6aeb0ef790dc1a2aa01f3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c163a92a7329945aee92c3a86827d0f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0.aar\8c163a92a7329945aee92c3a86827d0f\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\26ae7642a6579819f6c6673dcd25d96a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0.aar\26ae7642a6579819f6c6673dcd25d96a\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3319f31e7e9fa80faee1497b1b06ce5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\b3319f31e7e9fa80faee1497b1b06ce5\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0954ffc504c24874f293f8703fa1d159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\0954ffc504c24874f293f8703fa1d159\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\710c2f0c7c17d6eb2d23606dccc382fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\710c2f0c7c17d6eb2d23606dccc382fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b548f37f1e6da75ce9b3e26e07df5e70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\b548f37f1e6da75ce9b3e26e07df5e70\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e539b8f4124e5a17c9be234fbcf529fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\e539b8f4124e5a17c9be234fbcf529fc\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\664c5745e7a5be767184c4190476cee8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\664c5745e7a5be767184c4190476cee8\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\19c13ef6e240f5487d09c7ac0888dca7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0.aar\19c13ef6e240f5487d09c7ac0888dca7\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\afa6f1b758e1a542fd12c1d574e122d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\afa6f1b758e1a542fd12c1d574e122d7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\90ceb9865b4ba33e5e0836c2b721051d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\90ceb9865b4ba33e5e0836c2b721051d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e47477672e285e3f0e9f55d62558727e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Jun Han\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\e47477672e285e3f0e9f55d62558727e\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Jun Han\Desktop\AndroidTrivia-Starter\app\src\main\AndroidManifest.xml
